@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "940169083870",
+    "firebase_url": "https://signasl-50d89.firebaseio.com",
+    "project_id": "signasl-50d89",
+    "storage_bucket": "signasl-50d89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940169083870:android:37fb51944ca88b0f",
+        "android_client_info": {
+          "package_name": "com.onesignal.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940169083870-cbuc7lrlbv7jnjv31i3p5e1dsmi2r0eb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onesignal.example",
+            "certificate_hash": "fc0b6fe6d7e00d985a36999328442b5eaf80ce9b"
+          }
+        },
+        {
+          "client_id": "940169083870-8n6gttobl6p7l2tmho5hspg6kg65qlm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw4-MlGV2Bv3YnrA6YBl77rbaBfjuHeZA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940169083870-8n6gttobl6p7l2tmho5hspg6kg65qlm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
